@@ -1,0 +1,35 @@
+.main{
+  display: flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.child1{
+  width: 30%;
+  border: 1px solid #333;
+  border-radius:55px;
+  box-shadow:10px 13px 13px #333;
+  padding:2%;
+  margin:2%;
+}
+
+.child2{
+  width: 70%;
+  border: 1px solid #333;
+  border-radius:55px;
+  box-shadow:10px 13px 13px #333;
+  padding:2%;
+  margin:2%;
+  }
+  img{
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h1{
+    text-align: center;
+  }
+  a{
+    text-align: center;
+  }
