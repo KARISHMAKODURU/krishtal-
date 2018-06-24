@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"kari",
+    "email":"karishmakoduru@gmail.com",
+    "mobile":"+91-9181716151"
+  },
+  "education":[
+    {
+      "degree":"btech",
+      "institute":"PSCMR",
+      "data":["2015-2019","85%"]
+    },
+    {
+      "degree":"inter",
+      "institute":"chaitanya",
+      "data":["2013-2015","95%"]
+    },
+    {
+      "degree":"ssc",
+      "institute":"stbem",
+      "data":["2013","90%"]
+    }
+  ]
+}
