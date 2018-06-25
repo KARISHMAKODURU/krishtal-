@@ -4,21 +4,50 @@
     "email":"karishmakoduru@gmail.com",
     "mobile":"+91-9181716151"
   },
+  "career":{
+     "info":"To gain employment with a company  or institution that offers me a consistently positive atmosphere to learn new technologiesand implement them for the betterment of the business."
+  },
   "education":[
     {
-      "degree":"btech",
+      "degree":"B.Tech",
       "institute":"PSCMR",
       "data":["2015-2019","85%"]
     },
     {
-      "degree":"inter",
-      "institute":"chaitanya",
+      "degree":"Intermediate",
+      "institute":"SCJMK",
       "data":["2013-2015","95%"]
     },
     {
-      "degree":"ssc",
-      "institute":"stbem",
+      "degree":"SSC",
+      "institute":"STBEM",
       "data":["2013","90%"]
     }
+  ],
+  "achievements":[
+    {
+      "name":"certified in <b>C</b> by <strong><q>IIT bombay</q></strong>"
+    },
+    {
+      "name":"got <strong>1<sup>st</sup></strong> in dance at  <strong><q>PSCMR</q></strong>"
+    }
+  ],
+  "skills":[
+  {
+  "name":"programming languages",
+  "data":["C","PYTHON","C++","r"]
+  },
+  {
+  "name":"Databases",
+  "data":["oracle","sql"]
+  },
+  {
+  "name":"web technologies",
+  "data":["html","css","php","js"]
+  },
+  {
+  "name":"libraries and frameworks",
+  "data":["codeIgniter","jQuery"]
+  }
   ]
 }
